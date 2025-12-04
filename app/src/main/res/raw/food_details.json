@@ -1,0 +1,203 @@
+[
+  {
+    "id": "8e2d7e2b-8a7b-4ebe-9b73-cab1f8d534c4",
+    "optionList": [
+      {
+        "label": "Tipo de fideo",
+        "choices": ["Grueso", "Delgado"]
+      },
+      {
+        "label": "Nivel de picante",
+        "choices": ["Sin picante", "Medio", "Alto"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra huevo", "price": 20.0 },
+      { "label": "Extra cerdo chashu", "price": 35.0 },
+      { "label": "Extra algas nori", "price": 12.0 }
+    ]
+  },
+  {
+    "id": "b1fa9d0b-32d7-4a56-a9ec-097a56adf502",
+    "optionList": [
+      {
+        "label": "Salsa",
+        "choices": ["Soya", "Ponzu", "Sin salsa"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra salmón", "price": 45.0 },
+      { "label": "Wasabi extra", "price": 5.0 }
+    ]
+  },
+  {
+    "id": "d0b0c631-3c0e-4d59-a1c3-3e41300f7e63",
+    "optionList": [
+      {
+        "label": "Tipo de tempura",
+        "choices": ["Mixto", "Solo camarón", "Solo vegetales"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra camarón", "price": 30.0 },
+      { "label": "Extra salsa tentsuyu", "price": 10.0 }
+    ]
+  },
+  {
+    "id": "4736bf84-dc31-4e12-bcf0-d456dbb6cf38",
+    "optionList": [
+      {
+        "label": "Sazón",
+        "choices": ["Tare clásica", "Sal", "Shio dulce"]
+      }
+    ],
+    "extraList": [
+      { "label": "Brocheta extra", "price": 25.0 },
+      { "label": "Cebollín extra", "price": 6.0 }
+    ]
+  },
+  {
+    "id": "c9c810d0-dba4-4eab-a584-ea3c3b2d90da",
+    "optionList": [
+      {
+        "label": "Envoltura",
+        "choices": ["Nori completa", "Nori media", "Sin nori"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra relleno de atún", "price": 12.0 },
+      { "label": "Mayonesa japonesa extra", "price": 6.0 }
+    ]
+  },
+  {
+    "id": "b7b74a4d-dfb5-46ac-8c12-a96f35dbf950",
+    "optionList": [
+      {
+        "label": "Estilo",
+        "choices": ["Clásico", "Con queso", "Mariscos"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra carne de cerdo", "price": 20.0 },
+      { "label": "Extra salsa okonomiyaki", "price": 8.0 },
+      { "label": "Extra katsuobushi", "price": 10.0 }
+    ]
+  },
+  {
+    "id": "f821f383-bc93-41e1-a271-57cf7e9a3f0a",
+    "optionList": [
+      {
+        "label": "Punto de fritura",
+        "choices": ["Crujiente", "Semicrujiente"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra porción de pollo", "price": 30.0 },
+      { "label": "Limón extra", "price": 3.0 }
+    ]
+  },
+  {
+    "id": "a4ef4a63-74a0-4cbe-a8c7-2ea3d4fd3f8c",
+    "optionList": [
+      {
+        "label": "Acompañamiento",
+        "choices": ["Arroz", "Ensalada", "Solo tonkatsu"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra salsa tonkatsu", "price": 8.0 },
+      { "label": "Extra ensalada", "price": 10.0 }
+    ]
+  },
+  {
+    "id": "ef2be3d3-c1bd-42c2-8af1-3eef00ab1114",
+    "optionList": [
+      {
+        "label": "Cobertura",
+        "choices": ["Salsa clásica", "Extra mayonesa", "Picante ligero"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra pulpo", "price": 18.0 },
+      { "label": "Extra salsa takoyaki", "price": 7.0 }
+    ]
+  },
+  {
+    "id": "26fd1b55-b9df-4696-a097-dfc33a4b8296",
+    "optionList": [
+      {
+        "label": "Forma de servir",
+        "choices": ["Con hielo", "Sin hielo"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra fideos", "price": 15.0 },
+      { "label": "Extra tsuyu", "price": 10.0 }
+    ]
+  },
+  {
+    "id": "5a3a7a48-7dcd-4401-9c4b-65b56243f554",
+    "optionList": [
+      {
+        "label": "Punto de cocción",
+        "choices": ["Bien cocido", "Medio", "Jugoso"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra res", "price": 25.0 },
+      { "label": "Extra cebolla caramelizada", "price": 10.0 }
+    ]
+  },
+  {
+    "id": "a6b7fad2-3ae7-4193-92ad-8a677730c573",
+    "optionList": [
+      {
+        "label": "Método de preparación",
+        "choices": ["Plancha", "Al vapor"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra gyoza", "price": 12.0 },
+      { "label": "Extra salsa ponzu", "price": 7.0 }
+    ]
+  },
+  {
+    "id": "e4f50c96-89cb-4d51-8f17-060ae7d66afe",
+    "optionList": [
+      {
+        "label": "Picante",
+        "choices": ["Suave", "Medio", "Alto"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra curry", "price": 18.0 },
+      { "label": "Extra udon", "price": 15.0 }
+    ]
+  },
+  {
+    "id": "4d75f77c-e0be-44d9-85ac-54b4247266fb",
+    "optionList": [
+      {
+        "label": "Tipo de miso",
+        "choices": ["Blanco", "Rojo"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra tofu", "price": 10.0 },
+      { "label": "Extra wakame", "price": 8.0 }
+    ]
+  },
+  {
+    "id": "3a0e0c8e-6e93-4be8-9daf-5998115d7a09",
+    "optionList": [
+      {
+        "label": "Corte",
+        "choices": ["Fino", "Grueso"]
+      }
+    ],
+    "extraList": [
+      { "label": "Extra porción de atún", "price": 45.0 },
+      { "label": "Soya premium", "price": 12.0 }
+    ]
+  }
+]

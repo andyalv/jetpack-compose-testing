@@ -1,0 +1,162 @@
+[
+  {
+    "id": "8e2d7e2b-8a7b-4ebe-9b73-cab1f8d534c4",
+    "title": "Ramen Tonkotsu",
+    "description": "Caldo de cerdo cocinado por horas con fideos gruesos.",
+    "price": 220.0,
+    "priceDiscount": 180.0,
+    "likeability": {
+      "likePercentage": 95,
+      "likeUsers": 120
+    },
+    "image": {
+      "url": "https://cdn.shopify.com/s/files/1/0605/9720/7189/files/20250314082056-tonkotsu-20ramen.png?v=1741940460&width=1600&height=900"
+    }
+  },
+  {
+    "id": "b1fa9d0b-32d7-4a56-a9ec-097a56adf502",
+    "title": "Sushi Nigiri de Salmón",
+    "description": "Corte fresco de salmón sobre arroz ligeramente aderezado.",
+    "price": 150.0,
+    "image": {
+      "url": "https://schoolofsushi.com/wp-content/uploads/2022/11/nigiri-zalm.jpg"
+    }
+  },
+  {
+    "id": "d0b0c631-3c0e-4d59-a1c3-3e41300f7e63",
+    "title": "Tempura Mix",
+    "description": "Verduras y camarones fritos con rebozado ligero.",
+    "price": 175.0,
+    "priceDiscount": 140.0,
+    "image": {
+      "url": "https://www.mamaknowsglutenfree.com/wp-content/uploads/2024/07/gluten-free-tempura-batter-recipe_.jpg"
+    }
+  },
+  {
+    "id": "4736bf84-dc31-4e12-bcf0-d456dbb6cf38",
+    "title": "Yakitori",
+    "description": "Brochetas de pollo asadas con salsa tare.",
+    "price": 90.0,
+    "likeability": {
+      "likePercentage": 87,
+      "likeUsers": 54
+    },
+    "image": {
+      "url": "https://thejapanstore.us/wp-content/uploads/2021/11/shutterstock_579499555-scaled.jpg"
+    }
+  },
+  {
+    "id": "c9c810d0-dba4-4eab-a584-ea3c3b2d90da",
+    "title": "Onigiri de Atún",
+    "description": "Triángulo de arroz relleno de atún con mayonesa.",
+    "price": 55.0,
+    "image": {
+      "url": "https://i0.wp.com/ricokome.com/wp-content/uploads/2022/10/Diseno-sin-titulo.png?fit=800%2C800&ssl=1"
+    }
+  },
+  {
+    "id": "b7b74a4d-dfb5-46ac-8c12-a96f35dbf950",
+    "title": "Okonomiyaki",
+    "description": "Panqueque japonés con col, cerdo y salsa especial.",
+    "price": 130.0,
+    "image": {
+      "url": "https://www.recetassinlactosa.com/wp-content/uploads/2023/10/Okonomiyaki-2-500x375.jpg"
+    }
+  },
+  {
+    "id": "f821f383-bc93-41e1-a271-57cf7e9a3f0a",
+    "title": "Karaage",
+    "description": "Pollo marinado y frito al estilo japonés.",
+    "price": 110.0,
+    "priceDiscount": 90.0,
+    "image": {
+      "url": "https://static01.nyt.com/images/2018/07/25/dining/HK-karaage-horizontal/merlin_141075300_74569dec-9fc2-4174-931d-019dddef3bb8-jumbo.jpg"
+    }
+  },
+  {
+    "id": "a4ef4a63-74a0-4cbe-a8c7-2ea3d4fd3f8c",
+    "title": "Tonkatsu",
+    "description": "Milanesa de cerdo empanizada y frita.",
+    "price": 140.0,
+    "image": {
+      "url": "https://www.kwanhomsai.com/wp-content/uploads/2017/03/Tonkatsu-Cerdo-empanado-jaone%CC%81s-Feat1.jpg"
+    }
+  },
+  {
+    "id": "ef2be3d3-c1bd-42c2-8af1-3eef00ab1114",
+    "title": "Takoyaki",
+    "description": "Bolas de masa rellenas de pulpo con salsa y katsuobushi.",
+    "price": 95.0,
+    "likeability": {
+      "likePercentage": 93,
+      "likeUsers": 80
+    },
+    "image": {
+      "url": "https://imag.bonviveur.com/takoyaki.jpg"
+    }
+  },
+  {
+    "id": "26fd1b55-b9df-4696-a097-dfc33a4b8296",
+    "title": "Soba Fría",
+    "description": "Fideos de trigo sarraceno servidos con salsa tsuyu.",
+    "price": 105.0,
+    "image": {
+      "url": "https://sal-pimienta.com/wp-content/uploads/2018/08/2.jpg"
+    }
+  },
+  {
+    "id": "5a3a7a48-7dcd-4401-9c4b-65b56243f554",
+    "title": "Donburi de Res",
+    "description": "Tazón de arroz con carne de res salteada.",
+    "price": 160.0,
+    "priceDiscount": 130.0,
+    "image": {
+      "url": "https://ryukoch.b-cdn.net/images/main/gyudon.jpg"
+    }
+  },
+  {
+    "id": "a6b7fad2-3ae7-4193-92ad-8a677730c573",
+    "title": "Gyoza",
+    "description": "Empanadillas rellenas de cerdo y col, selladas y al vapor.",
+    "price": 85.0,
+    "image": {
+      "url": "https://assets.epicurious.com/photos/628ba0d3fa016bab2139efa2/16:9/w_6601,h_3713,c_limit/Gyoza_RECIPE_051922_34332.jpg"
+    }
+  },
+  {
+    "id": "e4f50c96-89cb-4d51-8f17-060ae7d66afe",
+    "title": "Udon Curry",
+    "description": "Fideos gruesos servidos con curry japonés.",
+    "price": 150.0,
+    "likeability": {
+      "likePercentage": 89,
+      "likeUsers": 33
+    },
+    "image": {
+      "url": "https://cdn.jwplayer.com/v2/media/olrUaJ0u/poster.jpg?width=1280"
+    }
+  },
+  {
+    "id": "4d75f77c-e0be-44d9-85ac-54b4247266fb",
+    "title": "Miso Shiru",
+    "description": "Sopa tradicional de miso con tofu y wakame.",
+    "price": 45.0,
+    "image": {
+      "url": "https://www.atelierlalune.com/wp-content/uploads/2020/05/tofu-miso1.jpg"
+    }
+  },
+  {
+    "id": "3a0e0c8e-6e93-4be8-9daf-5998115d7a09",
+    "title": "Sashimi de Atún",
+    "description": "Láminas de atún rojo fresco.",
+    "price": 190.0,
+    "priceDiscount": 170.0,
+    "likeability": {
+      "likePercentage": 97,
+      "likeUsers": 210
+    },
+    "image": {
+      "url": "https://www.cocinavital.mx/wp-content/uploads/2017/11/sashimi_de_atun-e1550689508843.jpg"
+    }
+  }
+]
